@@ -49,6 +49,21 @@ const questions = [
         message: "8.Please Enter Contributor Information:",
     },
     {
+        type: 'input',
+        name: 'test',
+        message: "9.Please Enter Test Information:",
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: "10.Please Enter Email Information:",
+    },
+    {
+        type: 'input',
+        name: 'github',
+        message: "11.Please Enter GitHub Information:",
+    },
+    {
         //if true, function credits will start 
         type: 'confirm',
         name: 'addCredits',

@@ -70,9 +70,9 @@ ${answer.description}
 ## Installation
 ${answer.installation}
 ## Usage
+![img](./${answer.usageImg})
 
 ${answer.usage}
-![img](./${answer.usageImg})
 
 ## Credits
 ${generateCredits(credit)}
@@ -88,6 +88,10 @@ ${answer.contribute}
 
 ## Tests
 ${answer.test}
+
+## Questions
+ Email: ${answer.email}
+ GitHub: ${answer.github}
 
 `;
 }

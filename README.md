@@ -3,7 +3,7 @@
 # README Generator
 
 ## Description
-This application allowes user to create a customized README file 
+This application allowes user to create a README File for a project 
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
@@ -16,25 +16,29 @@ This application allowes user to create a customized README file
 - [Test](#Test)
 
 ## Installation
-npm, inqirer
+npm, inquierer
 ## Usage
+![img](./example.jpeg  )
 
-User only needs to answer the prompt questions
-![img](./example.jpeg)
+User only needs to answer the prompted question
 
 ## Credits
- * [digitalocean](https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts)
- * [tutor Erik Hoverstain ](none)
+ * [Erick Hoverstine (tutor)](none)
+ * [DigitalOCean](https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts)
 
 ## License
-* [Open BSD](https://choosealicense.com/licenses/bsd-2-clause/) 
+* [MIT License](https://choosealicense.com/licenses/mit/) 
 
 ## Features
-User is also able to choose a license to be added to the README, an image/screenshot relative path, and as many credits with links as needed 
+User may choose a licensem, add a relative path for an image to be displayed, and user may add as many credits and needed. Warning: Spelling is on you!
 
 ## Contribute
-N/A
+none
 
 ## Tests
-undefined
+none
+
+## Questions
+ Email: ayrh90@icloud.com
+ GitHub: https://github.com/Ayrh1
 
