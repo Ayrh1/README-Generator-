@@ -18,19 +18,15 @@ This application allowes user to create a README File for a project
 ## Installation
 npm, inquierer
 ## Usage
-![img](./example.jpeg  )
-
-User only needs to answer the prompted question
-
+![img](./11-express-homework-demo-01.png)
+Add, Save or delete any notes you like
 ## Credits
  * [Erick Hoverstine (tutor)](none)
- * [DigitalOCean](https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts)
 
 ## License
-* [MIT License](https://choosealicense.com/licenses/mit/) 
-
+N/A
 ## Features
-User may choose a licensem, add a relative path for an image to be displayed, and user may add as many credits and needed. Warning: Spelling is on you!
+N/A
 
 ## Contribute
 none

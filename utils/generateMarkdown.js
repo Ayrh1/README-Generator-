@@ -12,16 +12,16 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   const myVariable = license;
- console.log('fuction link license:',license)
-switch (myVariable) {
-  case 'MIT License':
-     return '(https://choosealicense.com/licenses/mit/)';
-  case 'Open BSD':
+  console.log('fuction link license:',license)
+  switch (myVariable) {
+    case 'MIT License':
+      return '(https://choosealicense.com/licenses/mit/)';
+    case 'Open BSD':
       return '(https://choosealicense.com/licenses/bsd-2-clause/)';
-  case 'Mozilla Public License 2.0':
-    return '(https://choosealicense.com/licenses/mpl-2.0/)';
-  default:
-    return ' '; 
+    case 'Mozilla Public License 2.0':
+      return '(https://choosealicense.com/licenses/mpl-2.0/)';
+    default:
+      return ' '; 
 }
 }
 
